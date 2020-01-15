@@ -20,7 +20,7 @@ def createFraccion() -> Fraccion:
     return Fraccion(numerador, denominador)
 
 
-print("\n------------------Test de las clases------------------")
+print("\n-----------------Test de las clases-----------------")
 
 print()
 print("Ejercicio 1. Clase Tiempo")
